@@ -1,7 +1,7 @@
 # recco-rig
 This is a board to help musicians perform recordings along with Recco App.
 
-<img src="connections.png" width="500" />
+<img src="connections.png" width="700" />
 
 ## Board
 
